@@ -1,0 +1,2 @@
+# Improved-braintumor-segmentation-in-MR-images-with-a-modified-UNet
+Early detection of brain tumors is crucial,but manual MRI analysis is slow and can miss small regions.This project uses an improved U-Net model with optimized parameters &amp; Leaky ReLU activation.The model is trained on MRI images and achieves 99.4% accuracy &amp; 90.2% Dice score.It helps doctors quickly identify tumors and improves diagnosis accuracy.
