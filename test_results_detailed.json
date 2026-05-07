@@ -1,0 +1,6 @@
+{
+  "total_test_images": 613,
+  "average_dice": 0.019948308715380614,
+  "average_iou": 0.010147937749659318,
+  "average_accuracy": 0.08941150315634541
+}
